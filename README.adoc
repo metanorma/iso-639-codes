@@ -1,0 +1,16 @@
+= ISO 639 codes in machine-readable form
+
+== Purpose
+The Library of Congress (LOC) is the official Registration Authority of the ISO 639 series of standards.
+
+This repository merely provides this content in machine-readable format for usage:
+
+
+== Contents
+
+* `iso_639_2.yaml` is the list of ISO 639-2 3-letter codes in YAML format
+
+
+== Copyright
+
+The ISO 639 series is published by ISO, where the LOC is the RA of.
